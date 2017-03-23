@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-  * [Java](java.md)
+* [Java](introduction.md)
   * [Spring](spring.md)
 
 
