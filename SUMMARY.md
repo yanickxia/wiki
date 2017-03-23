@@ -1,9 +1,8 @@
 # Summary
 
-* [Introduction](README.md)
-* [Java](introduction.md)
-  * [Spring](spring.md)
-    * Cloud
+* [Introduction](Introduction.md)
+* [Java](./java/java.md)
+  * [Spring](/java/spring.md)
 
 
 
